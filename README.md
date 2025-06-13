@@ -14,5 +14,9 @@ Una vez seleccionada la conversión, se solicita el valor que se desea convertir
 
 Una vez ingresada la información, se realiza la conversión consumiento la API de ExchangeRate para conocer el valor que se imprime en consola, a partir de aquí el proceso inicia de nuevo hasta que el usuario seleccione la opción salir
 
+<h3>Ejemplo en video de como funciona el conversor de monedas</h3>
+
+https://github.com/user-attachments/assets/8d056ee5-1a3b-4aba-890e-c2bc66ac0622
+
 
 
